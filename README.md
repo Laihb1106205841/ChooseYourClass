@@ -1,2 +1,2 @@
 # ChooseYourClass
-ByStudyingOnlinePythontheriom
+By Studying Online Python thoriem
